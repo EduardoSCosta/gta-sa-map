@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <MapContainer center={[3072, 0]} 
+      <MapContainer center={[1500, 1500]} 
                     zoom={0} minZoom={-3} maxZoom={2} 
                     crs={CRS.Simple}>
         <ImageOverlay url={gtasamap} bounds={[[0, 0], [3072, 3072]]}/>
