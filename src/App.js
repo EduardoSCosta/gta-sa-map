@@ -1,23 +1,16 @@
-import logo from './logo.svg';
+import { MapContainer, ImageOverlay } from 'react-leaflet';
+import {CRS} from 'leaflet';
+import gtasamap from './assets/maps/gtasamap.jpg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <MapContainer center={[3072, 0]} 
+                    zoom={0} minZoom={-3} maxZoom={2} 
+                    crs={CRS.Simple}>
+        <ImageOverlay url={gtasamap} bounds={[[0, 0], [3072, 3072]]}/>
+      </MapContainer>
     </div>
   );
 }
