@@ -1,4 +1,4 @@
-import { MapContainer, ImageOverlay, Marker, Popup } from 'react-leaflet';
+import { MapContainer, ImageOverlay, Marker } from 'react-leaflet';
 import { CRS } from 'leaflet';
 import gtasamap from './assets/maps/gtasamap.jpg';
 import { oystersLocations } from './data/oysters';
