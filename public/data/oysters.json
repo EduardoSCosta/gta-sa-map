@@ -1,4 +1,5 @@
-export const oystersLocations = [
+{
+  "locations": [
     {
       "id": 1,
       "lat" : 520,
@@ -298,6 +299,6 @@ export const oystersLocations = [
       "lat" : 3116,
       "lng" : 3095,
       "url": "placeholder"
-    },
-
-];
+    }
+  ]
+}

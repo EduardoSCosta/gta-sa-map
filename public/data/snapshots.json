@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "lat" : 1259,
+      "lng" : 3096,
+      "url": "placeholder"
+    },
+    {
+      "id": 2,
+      "lat" : 1257,
+      "lng" : 2973,
+      "url": "placeholder"
+    },
+    {
+      "id": 3,
+      "lat" : 359,
+      "lng" : 2912,
+      "url": "placeholder"
+    },
+    {
+      "id": 4,
+      "lat" : 256,
+      "lng" : 1258,
+      "url": "placeholder"
+    }
+  ]
+}

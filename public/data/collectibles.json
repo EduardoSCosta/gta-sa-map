@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Tags",
+      "value": "tags"
+    },
+    {
+      "id": 2,
+      "name": "Oysters",
+      "value": "oysters"
+    },
+    {
+      "id": 3,
+      "name": "Snapshots",
+      "value": "snapshots"
+    },
+    {
+      "id": 4,
+      "name": "Horseshoes",
+      "value": "horseshoes"
+    }
+  ]
+}
