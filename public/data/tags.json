@@ -3,26 +3,28 @@
     {
       "id": 1,
       "lat" : 2598,
-      "lng" : 3096,
-      "url": "placeholder"
+      "lng" : 3096
     },
     {
       "id": 2,
       "lat" : 1257,
-      "lng" : 1478,
-      "url": "placeholder"
+      "lng" : 1478
     },
     {
       "id": 3,
       "lat" : 359,
-      "lng" : 125,
-      "url": "placeholder"
+      "lng" : 125
     },
     {
       "id": 4,
       "lat" : 256,
-      "lng" : 853,
-      "url": "placeholder"
+      "lng" : 853
+    }
+    ,
+    {
+      "id": 5,
+      "lat" : 0,
+      "lng" : 0
     }
   ]
 }

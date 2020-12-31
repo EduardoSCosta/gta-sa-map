@@ -3,22 +3,26 @@
     {
       "id": 1,
       "name": "Tags",
-      "value": "tags"
+      "value": "tags",
+      "marker": "tagsMarker"
     },
     {
       "id": 2,
       "name": "Oysters",
-      "value": "oysters"
+      "value": "oysters",
+      "marker": "oystersMarker"
     },
     {
       "id": 3,
       "name": "Snapshots",
-      "value": "snapshots"
+      "value": "snapshots",
+      "marker": "snapshotsMarker"
     },
     {
       "id": 4,
       "name": "Horseshoes",
-      "value": "horseshoes"
+      "value": "horseshoes",
+      "marker": "horseshoesMarker"
     }
   ]
 }

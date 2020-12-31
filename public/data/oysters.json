@@ -3,302 +3,252 @@
     {
       "id": 1,
       "lat" : 520,
-      "lng" : 3096,
-      "url": "placeholder"
+      "lng" : 3096
     },
     {
       "id": 2,
       "lat" : 254,
-      "lng" : 2973,
-      "url": "placeholder"
+      "lng" : 2973
     },
     {
       "id": 3,
       "lat" : 280,
-      "lng" : 2912,
-      "url": "placeholder"
+      "lng" : 2912
     },
     {
       "id": 4,
       "lat" : 210,
-      "lng" : 2768,
-      "url": "placeholder"
+      "lng" : 2768
     },
     {
       "id": 5,
       "lat" : 160,
-      "lng" : 2260,
-      "url": "placeholder"
+      "lng" : 2260
     },
     {
       "id": 6,
       "lat" : 446,
-      "lng" : 2070,
-      "url": "placeholder"
+      "lng" : 2070
     },
     {
       "id": 7,
       "lat" : 630,
-      "lng" : 1945,
-      "url": "placeholder"
+      "lng" : 1945
     },
     {
       "id": 8,
       "lat" : 561,
-      "lng" : 1652,
-      "url": "placeholder"
+      "lng" : 1652
     },
     {
       "id": 9,
       "lat" : 758,
-      "lng" : 1948,
-      "url": "placeholder"
+      "lng" : 1948
     },
     {
       "id": 10,
       "lat" : 958,
-      "lng" : 2582,
-      "url": "placeholder"
+      "lng" : 2582
     },
     {
       "id": 11,
       "lat" : 1160,
-      "lng" : 2226,
-      "url": "placeholder"
+      "lng" : 2226
     },
     {
       "id": 12,
       "lat" : 1512,
-      "lng" : 2642,
-      "url": "placeholder"
+      "lng" : 2642
     },
     {
       "id": 13,
       "lat" : 1697,
-      "lng" : 2688,
-      "url": "placeholder"
+      "lng" : 2688
     },
     {
       "id": 14,
       "lat" : 1827,
-      "lng" : 2990,
-      "url": "placeholder"
+      "lng" : 2990
     },
     {
       "id": 15,
       "lat" : 1445,
-      "lng" : 1825,
-      "url": "placeholder"
+      "lng" : 1825
     },
     {
       "id": 16,
       "lat" : 1300,
-      "lng" : 1596,
-      "url": "placeholder"
+      "lng" : 1596
     },
     {
       "id": 17,
       "lat" : 1110,
-      "lng" : 1536,
-      "url": "placeholder"
+      "lng" : 1536
     },
     {
       "id": 18,
       "lat" : 1054,
-      "lng" : 1608,
-      "url": "placeholder"
+      "lng" : 1608
     },
     {
       "id": 19,
       "lat" : 905,
-      "lng" : 1597,
-      "url": "placeholder"
+      "lng" : 1597
     },
     {
       "id": 20,
       "lat" : 720,
-      "lng" : 1481,
-      "url": "placeholder"
+      "lng" : 1481
     },
     {
       "id": 21,
       "lat" : 111,
-      "lng" : 1007,
-      "url": "placeholder"
+      "lng" : 1007
     },
     {
       "id": 22,
       "lat" : 224,
-      "lng" : 967,
-      "url": "placeholder"
+      "lng" : 967
     },
     {
       "id": 23,
       "lat" : 740,
-      "lng" : 725,
-      "url": "placeholder"
+      "lng" : 725
     },
     {
       "id": 24,
       "lat" : 1030,
-      "lng" : 97,
-      "url": "placeholder"
+      "lng" : 97
     },
     {
       "id": 25,
       "lat" : 1341,
-      "lng" : 182,
-      "url": "placeholder"
+      "lng" : 182
     },
     {
       "id": 26,
       "lat" : 1572,
-      "lng" : 743,
-      "url": "placeholder"
+      "lng" : 743
     },
     {
       "id": 27,
       "lat" : 1820,
-      "lng" : 1060,
-      "url": "placeholder"
+      "lng" : 1060
     },
     {
       "id": 28,
       "lat" : 1690,
-      "lng" : 1170,
-      "url": "placeholder"
+      "lng" : 1170
     },
     {
       "id": 29,
       "lat" : 1772,
-      "lng" : 882,
-      "url": "placeholder"
+      "lng" : 882
     },
     {
       "id": 30,
       "lat" : 1825,
-      "lng" : 942,
-      "url": "placeholder"
+      "lng" : 942
     },
     {
       "id": 31,
       "lat" : 2069,
-      "lng" : 932,
-      "url": "placeholder"
+      "lng" : 932
     },
     {
       "id": 32,
       "lat" : 2336,
-      "lng" : 815,
-      "url": "placeholder"
+      "lng" : 815
     },
     {
       "id": 33,
       "lat" : 2364,
-      "lng" : 278,
-      "url": "placeholder"
+      "lng" : 278
     },
     {
       "id": 34,
       "lat" : 2380,
-      "lng" : 202,
-      "url": "placeholder"
+      "lng" : 202
     },
     {
       "id": 35,
       "lat" : 2684,
-      "lng" : 204,
-      "url": "placeholder"
+      "lng" : 204
     },
     {
       "id": 36,
       "lat" : 2764,
-      "lng" : 487,
-      "url": "placeholder"
+      "lng" : 487
     },
     {
       "id": 37,
       "lat" : 2444,
-      "lng" : 791,
-      "url": "placeholder"
+      "lng" : 791
     },
     {
       "id": 38,
       "lat" : 2045,
-      "lng" : 1149,
-      "url": "placeholder"
+      "lng" : 1149
     },
     {
       "id": 39,
       "lat" : 2019,
-      "lng" : 1245,
-      "url": "placeholder"
+      "lng" : 1245
     },
     {
       "id": 40,
       "lat" : 2275,
-      "lng" : 1151,
-      "url": "placeholder"
+      "lng" : 1151
     },
     {
       "id": 41,
       "lat" : 2663,
-      "lng" : 1177,
-      "url": "placeholder"
+      "lng" : 1177
     },
     {
       "id": 42,
       "lat" : 2695,
-      "lng" : 1031,
-      "url": "placeholder"
+      "lng" : 1031
     },
     {
       "id": 43,
       "lat" : 2917,
-      "lng" : 1091,
-      "url": "placeholder"
+      "lng" : 1091
     },
     {
       "id": 44,
       "lat" : 3072,
-      "lng" : 1972,
-      "url": "placeholder"
+      "lng" : 1972
     },
     {
       "id": 45,
       "lat" : 2552,
-      "lng" : 2652,
-      "url": "placeholder"
+      "lng" : 2652
     },
     {
       "id": 46,
       "lat" : 2430,
-      "lng" : 2604,
-      "url": "placeholder"
+      "lng" : 2604
     },
     {
       "id": 47,
       "lat" : 2374,
-      "lng" : 2874,
-      "url": "placeholder"
+      "lng" : 2874
     },
     {
       "id": 48,
       "lat" : 2165,
-      "lng" : 2670,
-      "url": "placeholder"
+      "lng" : 2670
     },
     {
       "id": 49,
       "lat" : 2791,
-      "lng" : 2892,
-      "url": "placeholder"
+      "lng" : 2892
     },
     {
       "id": 50,
       "lat" : 3116,
-      "lng" : 3095,
-      "url": "placeholder"
+      "lng" : 3095
     }
   ]
 }
